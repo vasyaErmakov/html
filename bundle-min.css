@@ -126,7 +126,7 @@ h1 {
 }
 
 .main-new {
-    background: url(/img/header-imd.jpg);
+    background: url(img/header-imd.jpg);
     background-size: cover;
     background-position: center center;
     min-height: 464px;
